@@ -1,2 +1,0 @@
-# WebApplication
-prog/app.py
